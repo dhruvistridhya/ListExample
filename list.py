@@ -11,3 +11,6 @@ def r(ls):
 
 r(l1)
 print(l2)
+
+def demo():
+	print("demo")
